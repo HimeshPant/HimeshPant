@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @HimeshPant
-- 👀 I’m interested in Web development.
+- 👀 I'm looking to collaborate on Web development Projects.
+- 🚀 I'm currently learning Full-Stack Web Development.
 ## 🚀 My Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
