@@ -15,5 +15,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
   
-- 📫 How to reach me ...
-email-himeshpant0@gmail.com
+- 📫email- himeshpant0@gmail.com
