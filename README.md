@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HimeshPant
+- 👋 Hi, I’m @HimeshPant.
 - 👀 I'm looking to collaborate on Web development Projects.
 - 🚀 I'm currently learning Full-Stack Web Development. 
 - 💻 My Tech Stack
